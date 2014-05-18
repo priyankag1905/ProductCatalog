@@ -20,7 +20,7 @@ Getting started
 Application architecture:
 -------------------------
 1. Jade pages in view:
-         findproduct.jade : category and search input
-         products.jade : display search results
+         findproduct.jade : category and search input;
+         products.jade : display search results;
 2. index.js defines the route, connects to mongodb and sends data to the views.
 
